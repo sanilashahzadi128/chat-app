@@ -153,7 +153,7 @@ chat-app-assignment/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone [https://github.com/sanilashahzadi128/chat-app-assignment.git](https://github.com/sanilashahzadi128/chat-app-assignment.git)
 cd chat-app-assignment
 ```
 
